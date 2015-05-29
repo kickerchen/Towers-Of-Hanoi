@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SceneKitTutorial1.xcodeproj">
+      location = "self:Towers Of Hanoi.xcodeproj">
    </FileRef>
 </Workspace>

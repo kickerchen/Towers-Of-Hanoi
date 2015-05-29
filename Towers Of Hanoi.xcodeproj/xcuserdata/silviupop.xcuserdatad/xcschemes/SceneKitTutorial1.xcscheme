@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A1B40B6519F957DC0074331E"
-               BuildableName = "SceneKitTutorial1.app"
-               BlueprintName = "SceneKitTutorial1"
-               ReferencedContainer = "container:SceneKitTutorial1.xcodeproj">
+               BuildableName = "Towers Of Hanoi.app"
+               BlueprintName = "Towers Of Hanoi"
+               ReferencedContainer = "container:Towers Of Hanoi.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A1B40B7A19F957DC0074331E"
-               BuildableName = "SceneKitTutorial1Tests.xctest"
-               BlueprintName = "SceneKitTutorial1Tests"
-               ReferencedContainer = "container:SceneKitTutorial1.xcodeproj">
+               BuildableName = "SceneKit EmptyTests.xctest"
+               BlueprintName = "SceneKit EmptyTests"
+               ReferencedContainer = "container:Towers Of Hanoi.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A1B40B7A19F957DC0074331E"
-               BuildableName = "SceneKitTutorial1Tests.xctest"
-               BlueprintName = "SceneKitTutorial1Tests"
-               ReferencedContainer = "container:SceneKitTutorial1.xcodeproj">
+               BuildableName = "SceneKit EmptyTests.xctest"
+               BlueprintName = "SceneKit EmptyTests"
+               ReferencedContainer = "container:Towers Of Hanoi.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A1B40B6519F957DC0074331E"
-            BuildableName = "SceneKitTutorial1.app"
-            BlueprintName = "SceneKitTutorial1"
-            ReferencedContainer = "container:SceneKitTutorial1.xcodeproj">
+            BuildableName = "Towers Of Hanoi.app"
+            BlueprintName = "Towers Of Hanoi"
+            ReferencedContainer = "container:Towers Of Hanoi.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A1B40B6519F957DC0074331E"
-            BuildableName = "SceneKitTutorial1.app"
-            BlueprintName = "SceneKitTutorial1"
-            ReferencedContainer = "container:SceneKitTutorial1.xcodeproj">
+            BuildableName = "Towers Of Hanoi.app"
+            BlueprintName = "Towers Of Hanoi"
+            ReferencedContainer = "container:Towers Of Hanoi.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A1B40B6519F957DC0074331E"
-            BuildableName = "SceneKitTutorial1.app"
-            BlueprintName = "SceneKitTutorial1"
-            ReferencedContainer = "container:SceneKitTutorial1.xcodeproj">
+            BuildableName = "Towers Of Hanoi.app"
+            BlueprintName = "Towers Of Hanoi"
+            ReferencedContainer = "container:Towers Of Hanoi.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

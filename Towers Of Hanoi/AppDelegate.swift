@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  SceneKitTutorial1
+//  Towers Of Hanoi
 //
 //  Created by Silviu Pop on 10/23/14.
 //  Copyright (c) 2014 We Heart Swift. All rights reserved.
